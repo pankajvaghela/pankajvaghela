@@ -1,8 +1,4 @@
-### Hi there I am Pankaj Vaghela👋
-
-Full Stack Developer
-
-Mostly working with React, React Native, Node and everything that goes along with them.
+### Hi there, I'm Pankaj Vaghela👋
 
 <!--
 **pankajvaghela/pankajvaghela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +21,12 @@ https://pankajvaghela.github.io/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Startup project!
+- 🌱 I’m currently learning Web and App Development
+- 🤔 I’m looking for help with "Open Source"
+- 💬 Ask me about "Reactjs, Typescript, GraphQL, React Native, Node.js"
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iampankajvaghela]) | [Twitter](https://twitter.com/iampankajv1) | [GitHub](https://github.com/pankajvaghela)
+
+
+⚡ Fun fact: "😂"
